@@ -1,27 +1,25 @@
-🥞 Full Stack Deep Learning — My Labs (Fashion-MNIST Project)
+Full Stack Deep Learning — My Labs (Fashion-MNIST Project)
 
-Welcome! As part of my AI Automation internship / FSDL coursework, I incrementally built a deep learning codebase to create and deploy a model that classifies Fashion-MNIST images.
+This repo contains my implementation of the FSDL 2022 course labs, done at small scale on my own chosen dataset (Fashion-MNIST).
 
-I used the modern stack of PyTorch and PyTorch Lightning.
-I used the main workhorses of DL today: CNNs and Attention/Transformer concepts.
-I managed my experiments using Weights & Biases.
-I wrapped the prediction system in a frontend using Gradio.
-I set up basic monitoring/logging for prediction confidence.
+I used PyTorch and PyTorch Lightning, CNNs and Attention/Transformer concepts, Weights & Biases for experiment tracking, Gradio for deployment, and basic monitoring/logging for predictions.
 
-This repo mirrors the lab structure of the FSDL 2022 course, implemented at small scale on my own chosen dataset (Fashion-MNIST).
+Labs
 
-Click the badges below to open each lab notebook directly in Google Colab
 
-LabConceptColabLab 01: Deep Neural Networks in PyTorchRaw PyTorch MLP, manual training loopShow ImageLab 02a: PyTorch LightningConverting raw model into LightningShow ImageLab 02b: Training a CNNCNN architecture + training pipelineShow ImageLab 03: Transformers/AttentionSmall attention block experimentShow ImageLab 04: Experiment TrackingWeights & Biases integrationShow ImageLab 05: Troubleshooting & TestingPytest unit tests for the modelShow ImageLab 06: Data AnnotationAnnotation strategy & concept demoShow ImageLab 07: DeploymentGradio app for live predictionsShow ImageLab 08: MonitoringPrediction confidence loggingShow Image
+Lab 01: Deep Neural Networks in PyTorch — Raw PyTorch MLP, manual training loop
+Lab 02a: PyTorch Lightning — Converting raw model into Lightning
+Lab 02b: Training a CNN — CNN architecture + training pipeline
+Lab 03: Transformers/Attention — Small attention block experiment
+Lab 04: Experiment Tracking — Weights & Biases integration
+Lab 05: Troubleshooting & Testing — Pytest unit tests for the model
+Lab 06: Data Annotation — Annotation strategy & concept demo
+Lab 07: Deployment — Gradio app for live predictions
+Lab 08: Monitoring — Prediction confidence logging
+
 
 About
 
 Complete small-scale deep learning project developed as part of my AI Automation Internship, mirroring the structure of the Full Stack Deep Learning (FSDL) 2022 course labs, implemented on the Fashion-MNIST dataset.
 
-Topics
-
-machine-learning deep-learning pytorch mlops fashion-mnist
-
-Author
-
-Muqqadas — BS Software Engineering, Superior University Lahore
+Author: Muqqadas — BS Software Engineering, Superior University Lahore
